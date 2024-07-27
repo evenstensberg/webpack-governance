@@ -8,7 +8,7 @@ This section describes the various of types of roles within the webpack organiza
 
 ### Users
 
-The users of webpack is the ones using it from npm, shares resources to webpack and advocates for the tool. These users could become more involved in the project over time, becoming maintainer(-s) of the project.
+The users of webpack is the ones using it from npm, shares resources to webpack and advocates for the tool. These users could become more involved in the project over time, becoming maintainer(-s) of the project in roles such as Reviewer or Contributor.
 
 ### Maintainers
 
