@@ -18,4 +18,6 @@ Another method of contributing to webpack is to participate in issue triaging, c
 
 If a contributor has contributed to the organization for some time and shown progression, a contributor may become a maintainer of webpack.
 
-## TBD
+## Documenter
+
+This section describes the documentation work in both the official documentation (webpack.js.org), and documentation in each webpack repository.
