@@ -21,3 +21,20 @@ If a contributor has contributed to the organization for some time and shown pro
 ## Documenter
 
 This section describes the documentation work in both the official documentation (webpack.js.org), and documentation in each webpack repository.
+
+TBD
+
+## Commiters
+TBD
+
+## Reviewers
+TBD
+
+## TSC
+TBD
+
+## TSC meetings
+TBD
+
+## Consensus
+TBD
