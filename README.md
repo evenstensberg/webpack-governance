@@ -10,6 +10,7 @@ Technical Steering Commitee:
 - Alexander Akait (https://x.com/alexander_akait)
 - Nitin Kumar (https://x.com/snitin315)
 - Emanuele Stoppa (https://x.com/ematipico)
+- Claudio Wunder (https://x.com/wunderacle)
 
 Decision making group.
 
@@ -18,6 +19,7 @@ Decision making group.
 - Nitin Kumar (https://x.com/snitin315)
 - ricardogobbosouza (https://x.com/gobbo_ricardo)
 - Even Stensberg (https://x.com/evenstensberg)
+- Claudio Wunder (https://x.com/wunderacle)
 
 Reviewing PRs.
 
@@ -26,6 +28,7 @@ Reviewing PRs.
 
 - Alexander Akait (https://x.com/alexander_akait)
 - ricardogobbosouza (https://x.com/gobbo_ricardo)
+- Claudio Wunder (https://x.com/wunderacle)
 
 Contributing through code.
 
