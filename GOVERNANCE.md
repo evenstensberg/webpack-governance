@@ -22,7 +22,15 @@ If a contributor has contributed to the organization for some time and shown pro
 
 This section describes the documentation work in both the official documentation (webpack.js.org), and documentation in each webpack repository.
 
-TBD
+A "Documenter" is a contributor that is working on documentation on the main webpack.js.org page and in the webpack repositories. This work is very important for the webpack project in order for users to be able to understand how to use webpack and its 2nd hand tools.
+
+The work as a "Documenter" is done by understanding the API And codebase of webpack and webpack-contrib well enough to express how to use it as a user. To become a documenter:
+
+- Play well with others and show good team synergy.
+- Be able to communicate factual topics to a understandable format.
+- Shown activity in webpack and/or webpack-contrib.
+
+During Technical Steering Commitee meetings, the team will assign and/or discuss efforts in the webpack documentation. If a new contributor to the documentation (documenter) is involved in webpack/webpack contrib, the team will nominate this individual to the documentation team.
 
 ## Commiters
 TBD
