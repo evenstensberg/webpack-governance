@@ -33,6 +33,8 @@ The work as a "Documenter" is done by understanding the API And codebase of webp
 During Technical Steering Commitee meetings, the team will assign and/or discuss efforts in the webpack documentation. If a new contributor to the documentation (documenter) is involved in webpack/webpack contrib, the team will nominate this individual to the documentation team.
 
 ## Commiters
+A commiter is an individual that does actual contribution(-s) to the webpack organization. That could be either code, documentation or any other means of work inside the scope of webpack/webpack-contrib.
+
 TBD
 
 ## Reviewers
