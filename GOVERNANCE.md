@@ -33,18 +33,56 @@ The work as a "Documenter" is done by understanding the API And codebase of webp
 During Technical Steering Commitee meetings, the team will assign and/or discuss efforts in the webpack documentation. If a new contributor to the documentation (documenter) is involved in webpack/webpack contrib, the team will nominate this individual to the documentation team.
 
 ## Commiters
-A commiter is an individual that does actual contribution(-s) to the webpack organization. That could be either code, documentation or any other means of work inside the scope of webpack/webpack-contrib.
 
-TBD
+A commiter is an individual that has shown prolonged interested in the webpack project and has done continuous code contributions to the webpack organization. A commiter has write access to one or more repositories in the webpack organization.
 
-## Reviewers
-TBD
+A commiter may contribute to one or more repositories in the webpack organization. A commiter is expected to be active in the organization and participate in the organization's activities.
 
-## TSC
-TBD
+TBD (Better Wording, rights and responsibilities)
 
-## TSC meetings
-TBD
+## Core Commiters
 
-## Consensus
-TBD
+A core commiter is an individual that has a good understanding of the core of webpack and that has done continuous code contributionsd to the core of webpack. A core commiter performs all the duties and has all the rights of a commiter, but necessarily has access to the core of webpack.
+
+TBD (Better Wording, rights and responsibilities)
+
+## Triagers
+
+A triager is an individual that has shown interest in the webpack project and has done continuous work in the issue tracker of the webpack organization. A triager is expected to be active in the organization and participate in the organization's activities.
+
+Triagers may review and/or triage issues and pull requests and help maintain the issue tracker of the webpack organization.
+
+TBD (Better Wording, rights and responsibilities)
+
+## Technical Steering Committee (TSC)
+
+A subset of the collaborators forms the Technical Steering Committee (TSC).
+The TSC has final authority over this project, including:
+
+* Technical direction
+* Project governance and process (including this policy)
+* Contribution policy
+* GitHub repository hosting
+* Conduct guidelines
+* Maintaining the list of collaborators
+
+The current list of TSC members is in [the project README][].
+
+The [TSC Charter][] governs the operations of the TSC. All changes to the charter need approval by the [OpenJS Foundation Cross-Project Council (CPC)](https://github.com/openjs-foundation/cross-project-council/)
+
+### TSC Meetings
+
+TBD (Should we follow something similarly from Node.js?)
+
+### Consensus seeking process
+
+The TSC follows a [Consensus Seeking][] decision-making model per the [TSC Charter][].
+
+----
+
+This work is a derivative of the [Node.js Project Governance Model](https://github.com/nodejs/node/blob/main/GOVERNANCE.md).
+
+[Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+[contribution guidelines]: https://github.com/webpack/webpack/blob/main/CONTRIBUTING.md
+[the project README]: https://github.com/webpack/webpack/blob/main/README.md#PLACE-FOR-TSC-MEMBERS
+[TSC Charter]: ./TSC_CHARTER.md
