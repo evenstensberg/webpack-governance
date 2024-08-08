@@ -72,7 +72,9 @@ The [TSC Charter][] governs the operations of the TSC. All changes to the charte
 
 ### TSC Meetings
 
-TBD (Should we follow something similarly from Node.js?)
+Technical Steering Commitee meetings are hosted on Slack over text for about 20-30 minutes every month or 2nd week.
+
+TBD (meeting times and interval)
 
 ### Consensus seeking process
 
