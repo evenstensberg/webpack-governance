@@ -163,6 +163,10 @@ looking to participate in the development effort.
   is organized through the project creation process and approved by the
   TSC.
 
-[Condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
-[Consensus Seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
-[Single Transferable Vote]: https://en.wikipedia.org/wiki/Single_transferable_vote
+----
+
+This work is a derivative of the [Node.js Project TSC Chart](https://github.com/nodejs/node/blob/main/TSC_CHARTER.md).
+
+[condorcet]: https://en.wikipedia.org/wiki/Condorcet_method
+[consensus seeking]: https://en.wikipedia.org/wiki/Consensus-seeking_decision-making
+[single transferable vote]: https://en.wikipedia.org/wiki/Single_transferable_vote
