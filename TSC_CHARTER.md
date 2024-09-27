@@ -1,13 +1,17 @@
-# Technical Steering Committee (TSC) Charter
+# webpack TSC Charter
 
-## Section 1. Guiding Principle
+## Section 0. Guiding Principle
 
 The webpack project is part of the OpenJS Foundation. The project
 operates transparently, openly, collaboratively, and ethically.
 Project proposals, timelines, and status must not merely be
 open, but also easily visible to outsiders.
 
-## Section 2. Evolution of OpenJS Foundation Governance
+## Section 1. Scope
+
+**TBD**
+
+## Section 2. Relationship with OpenJS Foundation CPC.
 
 Most large, complex open source communities have both a business and a
 technical governance model. Technical leadership for the projects
@@ -56,7 +60,7 @@ TSC voting members are expected to regularly participate in TSC activities.
 A TSC voting member is automatically converted to a TSC regular member if
 they do not participate in three consecutive TSC votes.
 
-## Section 4. Responsibilities of the TSC
+## Section 4. Roles & Responsibilities of the TSC
 
 Subject to such policies as may be set by the CPC, the TSC voting members are
 responsible for all technical development within the webpack project,
@@ -75,7 +79,7 @@ including:
 
 The TSC voting members will define webpack project’s release vehicles.
 
-## Section 5. webpack Project Operations
+### Section 4.1. webpack Project Operations
 
 The TSC voting members will establish and maintain a development process for the
 webpack project. The development process will establish guidelines
@@ -88,7 +92,9 @@ The TSC and entire technical community will follow any processes as may
 be specified by the OpenJS Foundation Board relating to the intake and license
 compliance review of contributions, including the OpenJS Foundation IP Policy.
 
-## Section 6. Elections
+### Section 4.2. Decision-making, Voting, and/or Elections
+
+#### Section 4.2.1. Elections
 
 Leadership roles in the webpack project will be peer elected
 representatives of the community.
@@ -114,7 +120,7 @@ The TSC shall hold annual elections to select a TSC Chairperson and
 voting CPC member; there are no limits on the number
 of terms a TSC Chairperson or voting CPC member may serve.
 
-## Section 7. Voting
+#### Section 4.2.2. Voting
 
 For internal project decisions, Collaborators shall operate under Lazy
 Consensus. The TSC voting members shall establish appropriate guidelines for
@@ -131,7 +137,7 @@ abstention.
 
 All changes to this charter must be approved by the CPC.
 
-## Section 8. Project Roles
+#### Section 4.2.3. Project Roles
 
 The webpack git repository is maintained by the TSC and
 additional Collaborators who are added by the TSC voting members on an ongoing
@@ -151,7 +157,7 @@ The TSC will maintain and publish a list of current Collaborators, as
 well as a development process guide for Collaborators and Contributors
 looking to participate in the development effort.
 
-## Section 9. Definitions
+## Section 5. Definitions
 
 * **Contributors**: contribute code or other artifacts, but do not have
   the right to commit to the code base. Contributors work with the
